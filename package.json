@@ -1,0 +1,20 @@
+{
+  "name": "algoritmos-ts",
+  "version": "1.0.0",
+  "description": "Algorithms solved in TS",
+  "main": "index.ts",
+
+  "scripts": {
+      "test": "vitest",
+      "coverage": "vitest run --coverage"
+    },
+  "author": "Bryan Florentino",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.0.0",
+    "vitest": "^0.27.2"
+  }, 
+  "eslintConfig": {
+    "extends":"./node_modules/standard/estlintrc.json"
+  }
+}
