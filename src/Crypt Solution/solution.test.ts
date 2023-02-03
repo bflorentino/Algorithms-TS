@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import solution from './indext'
+import solution from './solution'
 
 describe("Testing crypt solution", ()=> {
     

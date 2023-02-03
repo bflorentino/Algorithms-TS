@@ -1,5 +1,5 @@
 import { it, expect, describe } from "vitest";
-import { solution } from "./index";
+import { solution } from "./solution";
 
 describe("Testing multiples of 3 or 5", () => {
 

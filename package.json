@@ -5,7 +5,7 @@
   "main": "index.ts",
 
   "scripts": {
-      "test": "vitest ./src/Multiples 3_5/tests.test.ts",
+      "test": "vitest ./src/Carry Gifts/",
       "coverage": "vitest run --coverage"
     },
   "author": "Bryan Florentino",

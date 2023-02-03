@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import solution from './index'
+import solution from './solution'
 
 describe("Testing rotation algorithm", ()=> {
     

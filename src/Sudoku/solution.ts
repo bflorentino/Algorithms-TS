@@ -1,4 +1,4 @@
-function solution(grid: string[][]): boolean {
+export const solution = (grid: string[][]): boolean => {
 
     // Check repeated numbers in area given (square, line or column)
     const areRepeatedItems = (arraytToChek:string[]) =>{
